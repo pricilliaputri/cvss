@@ -1,0 +1,11 @@
+flask 
+PyJWT 
+mysql-connector 
+tensorflow 
+tensorflow_hub 
+numpy 
+Werkzeug 
+flask-cors 
+Pillow 
+google-cloud-storage
+gunicorn
